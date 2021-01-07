@@ -1,6 +1,6 @@
 # OpenKattis
 
-A compiliation of OpenKattis solved problems in Python 3 :snake:. 
+A compilation of OpenKattis solved problems in Python 3 :snake:. 
 
 | Problem Name | Solution | Difficulty |
 | ------------- |--------------- |------------- |
