@@ -7,6 +7,7 @@ A compilation of OpenKattis solved problems in Python 3 :snake:.
 | [Aaah!](https://open.kattis.com/problems/aaah) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/aaah.py) | 1.5 |
 | [Autori](https://open.kattis.com/problems/autori) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/autori.py) | 1.3 |
 | [Batter Up](https://open.kattis.com/problems/batterup) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/batterup.py) | 1.3 |
+| [Bela](https://open.kattis.com/problems/bela) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/bela.py) | 1.2 |
 | [Bijele](https://open.kattis.com/problems/bijele) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/bijele.py) | 1.4 |
 | [Cold-puter Science](https://open.kattis.com/problems/cold) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/coldputerscience.py) | 1.3 |
 | [Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/dasblinkenlights.py) | 1.7 |
