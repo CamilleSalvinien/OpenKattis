@@ -14,11 +14,12 @@ A compilation of OpenKattis solved problems in Python 3 :snake:.
 | [Faktor](https://open.kattis.com/problems/faktor) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/faktor.py) | 1.3 |
 | [Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/fiftyshades.py) | 1.5 |
 | [Filip](https://open.kattis.com/problems/filip) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/filip.py) | 1.3 |
+| [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/harshardnumbers.py) | 1.3 |
 | [Hello World!](https://open.kattis.com/problems/hello) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/helloworld.py) | 1.2 |
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/hissingmicrophone.py) | 1.3 |
 | [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/isithalloween.py) | 1.4 |
 | [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) |[Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/nastyhacks.py) | 1.3 |
-| [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/lastfactorialdigit.py) | 1.3 |
+| [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/lastfactorialdigit.py) |1.3|
 | [Number Fun](https://open.kattis.com/problems/numberfun) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/numberfun.py) | 1.4 |
 | [Oddities](https://open.kattis.com/problems/oddities) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/oddities.py) | 1.4 |
 | [One Chicken Per Person!](https://open.kattis.com/problems/onechicken) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/onechicken.py) | 1.7 |
