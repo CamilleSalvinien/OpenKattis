@@ -30,5 +30,6 @@ A compilation of OpenKattis solved problems in Python 3 :snake:.
 | [Solving for Carrots](https://open.kattis.com/problems/carrots) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/carrots.py) | 1.4 |
 | [Some Sum](https://open.kattis.com/problems/somesum) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/somesum.py) | 1.7 |
 | [Spavanac](https://open.kattis.com/problems/spavanac) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/spavanac.py) | 1.4 |
+| [Tarifa](https://open.kattis.com/problems/tarifa) | [Pyton 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/tarifa.py) | 1.3 |
 | [Take Two Stones](https://open.kattis.com/problems/twostones) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/twostones.py) | 1.3 |
 | [Zamka](https://open.kattis.com/problems/zamka) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/zamka.py) | 1.4 |
