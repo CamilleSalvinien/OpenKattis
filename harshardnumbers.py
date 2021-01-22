@@ -9,10 +9,3 @@ for i in range (n, 1000000001):
     else:
         pass
     n+=1
-
-
-
-
-
-
-
