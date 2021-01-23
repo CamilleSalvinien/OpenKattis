@@ -24,6 +24,7 @@ A compilation of OpenKattis solved problems in Python 3 :snake:.
 | [Oddities](https://open.kattis.com/problems/oddities) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/oddities.py) | 1.4 |
 | [One Chicken Per Person!](https://open.kattis.com/problems/onechicken) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/onechicken.py) | 1.7 |
 | [Piece of Cake!](https://open.kattis.com/problems/pieceofcake2) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/pieceofcake2.py) | 1.3 |
+| [Pet](https://open.kattis.com/problems/pet) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/pet.py) | 1.3 |
 | [Planina](https://open.kattis.com/problems/planina) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/planina.py) | 1.3 |
 | [Pot](https://open.kattis.com/problems/pot) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/pot.py) | 1.3
 | [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/quadrant.py) | 1.3 |
