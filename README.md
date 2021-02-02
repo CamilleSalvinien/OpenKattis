@@ -69,7 +69,7 @@ A compilation of OpenKattis solved problems in Python 3 :snake:.
 | [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/quadrant.py) | 1.3 |
 | [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/quickestimate.py) | 1.4 |
 | [R2](https://open.kattis.com/problems/r2) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/r2.py) | 1.3 |
-| [Railroad](https://open.kattis.com/problems/railroad2) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/railroad.py) | 1.4 |
+| [Railroad](https://open.kattis.com/problems/railroad2) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/railroad2.py) | 1.4 |
 | [Reverse](https://open.kattis.com/problems/ofugsnuid) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/reverse.py) | 1.4 |
 | [Revesed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/reversebinary.py) | 1.4 |
 | [Roaming Romans](https://open.kattis.com/problems/romans) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/romans.py) | 1.4 |
