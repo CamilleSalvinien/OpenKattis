@@ -63,7 +63,7 @@ A compilation of OpenKattis solved problems in Python 3 :snake:.
 | [Planina](https://open.kattis.com/problems/planina) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/planina.py) | 1.3 |
 | [Poker Hand](https://open.kattis.com/problems/pokerhand) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/pokerhand.py) | 1.4 |
 | [Pot](https://open.kattis.com/problems/pot) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/pot.py) | 1.3
-| [Provinces and Gold](https://open.kattis.com/problems/provincesandgold) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/provincesandgold.py) | 1.4 |
+| [Provinces and Gold](https://open.kattis.com/problems/provincesandgold) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/provinceandgold.py) | 1.4 |
 | [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/quadrant.py) | 1.3 |
 | [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/quickestimate.py) | 1.4 |
 | [R2](https://open.kattis.com/problems/r2) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/r2.py) | 1.3 |
