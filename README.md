@@ -5,10 +5,19 @@ A compilation of OpenKattis solved problems in Python 3 :snake:.
 | Problem Name | Solution | Difficulty |
 | ------------- |--------------- |------------- |
 | [Aaah!](https://open.kattis.com/problems/aaah) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/aaah.py) | 1.5 |
+| [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/alphabetspam.py) | 1.4 |
+| [A Real Challenge](https://open.kattis.com/problems/areal) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/areal.py) | 1.5 |
+| [Astrological Sign](https://open.kattis.com/problems/astrologicalsign) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/astrologicalsign.py) | 1.6 |
 | [Autori](https://open.kattis.com/problems/autori) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/autori.py) | 1.3 |
+| []() | [Python 3]() | |
+| [Baby Bites](https://open.kattis.com/problems/babybites) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/babybites.py) | 1.7 |
 | [Batter Up](https://open.kattis.com/problems/batterup) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/batterup.py) | 1.3 |
 | [Bela](https://open.kattis.com/problems/bela) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/bela.py) | 1.2 |
 | [Bijele](https://open.kattis.com/problems/bijele) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/bijele.py) | 1.4 |
+| [Buka](https://open.kattis.com/problems/buka) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/buka.py) | 1.7 |
+| [Bus](https://open.kattis.com/problems/bus) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/bus.py) | 1.5 |
+| [Cetvrta](https://open.kattis.com/problems/cetvrta) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/cetvrta.py) | 1.4 |
+| [Chanukah Challenge](https://open.kattis.com/problems/chanukah) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/chanukah.py) | 1.3 |
 | [Cold-puter Science](https://open.kattis.com/problems/cold) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/coldputerscience.py) | 1.3 |
 | [Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/dasblinkenlights.py) | 1.7 |
 | [Faktor](https://open.kattis.com/problems/faktor) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/faktor.py) | 1.3 |
