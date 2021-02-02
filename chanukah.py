@@ -6,5 +6,3 @@ for i in range (p):
     for x in range (1, (N+1)):
         count+=x
     print(K, count)
-
-
