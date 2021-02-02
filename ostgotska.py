@@ -14,4 +14,3 @@ if (countAE/totalCount)>=(4/10):
     print("dae ae ju traeligt va")
 else:
     print("haer talar vi rikssvenska")
-    
