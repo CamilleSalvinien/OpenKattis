@@ -7,8 +7,7 @@ if n < m:
     if b == 1:
         print ('Dr. Chaz will have', b, 'piece of chicken left over!')
     else:
-         print ('Dr. Chaz will have', b, 'pieces of chicken left over!')
-  
+         print ('Dr. Chaz will have', b, 'pieces of chicken left over!')  
 
 else:
     if a == 1:
