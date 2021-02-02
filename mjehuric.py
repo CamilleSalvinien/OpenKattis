@@ -13,6 +13,3 @@ while numbers != [1,2,3,4,5]:
     if numbers[3] > numbers[4]:
         numbers[3], numbers[4] = numbers[4], numbers[3]
         print(*numbers)
-
-
-    
