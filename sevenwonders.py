@@ -20,7 +20,6 @@ specialList.append(countT)
 specialList.append(countG)
 special = min(specialList)
 
-
 totalCards=((int(countT)**2) + (int(countC)**2) + (int(countG)**2) + (special*7))
 
 print(totalCards)
