@@ -39,6 +39,7 @@ A compilation of OpenKattis solved problems in Python 3 :snake:.
 | [Herman](https://open.kattis.com/problems/herman) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/herman.py) | 1.6 |
 | [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/hissingmicrophone.py) | 1.3 |
 | [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/isithalloween.py) | 1.4 |
+| [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/everywhere.py) | 1.4 |
 | [Janitor Troubles](https://open.kattis.com/problems/janitortroubles) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/janitortroubles.py) | 1.4 |
 | [Job Expenses](https://open.kattis.com/problems/jobexpenses) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/jobexpenses.py) | 1.4 |
 | [Judging Moose](https://open.kattis.com/problems/judgingmoose) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/judgingmoose.py) | 1.4 |
@@ -46,6 +47,7 @@ A compilation of OpenKattis solved problems in Python 3 :snake:.
 | [Ladder](https://open.kattis.com/problems/ladder) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/ladder.py) | 1.4 |
 | [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/lastfactorialdigit.py) |1.3|
 | [Left Beehind](https://open.kattis.com/problems/leftbeehind) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/leftbeehind.py) | 1.6 |
+| [License to Launch](https://open.kattis.com/problems/licensetolaunch) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/licensetolaunch.py) | 1.4 |
 | [Missing Numbers](https://open.kattis.com/problems/missingnumbers) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/missingnumbers.py) | 1.6 |
 | [Mjehuric](https://open.kattis.com/problems/mjehuric) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/mjehuric.py) | 1.5 |
 | [Modulo](https://open.kattis.com/problems/modulo) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/modulo.py) | 1.4 |
@@ -67,14 +69,17 @@ A compilation of OpenKattis solved problems in Python 3 :snake:.
 | [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/quadrant.py) | 1.3 |
 | [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/quickestimate.py) | 1.4 |
 | [R2](https://open.kattis.com/problems/r2) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/r2.py) | 1.3 |
+| [Railroad](https://open.kattis.com/problems/railroad2) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/railroad.py) | 1.4 |
 | [Reverse](https://open.kattis.com/problems/ofugsnuid) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/reverse.py) | 1.4 |
 | [Revesed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/reversebinary.py) | 1.4 |
 | [Roaming Romans](https://open.kattis.com/problems/romans) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/romans.py) | 1.4 |
 | [Saving for Retirements](https://open.kattis.com/problems/savingforretirement) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/savingforretirement.py) | 1.6 |
 | [Server](https://open.kattis.com/problems/server) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/server.py) | 1.8 |
 | [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/sevenwonders.py) | 1.4 |
+| [Shattered Cake](https://open.kattis.com/problems/shatteredcake) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/shatteredcake.py) | 1.4 |
 | [Sibice](https://open.kattis.com/problems/sibice) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/sibice.py) | 1.4 |
 | [Simon Says](https://open.kattis.com/problems/simonsays) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/simonsays.py) | 1.4 |
+| [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/simpleaddition.py) | 2.1 |
 | [Soda Slurper](https://open.kattis.com/problems/sodaslurper) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/sodaslurper.py) | 1.5 |
 | [Solving for Carrots](https://open.kattis.com/problems/carrots) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/carrots.py) | 1.4 |
 | [Some Sum](https://open.kattis.com/problems/somesum) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/somesum.py) | 1.7 |
