@@ -1,7 +1,7 @@
 n, b = input().split()
 n = int(n)
 count = 0
-2
+
 for i in range (4*n):
     c = input()
     lastChar = c[-1]
@@ -36,6 +36,4 @@ for i in range (4*n):
         else:
             pass
 
-print(count)
-
-        
+print(count)     
