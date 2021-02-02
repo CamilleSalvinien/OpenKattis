@@ -2,7 +2,6 @@ x, y, z = (int(i) for i in input().split())
 
 flag = False
 
-
 if(x>y):
     max = x
     min = y
