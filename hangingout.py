@@ -18,8 +18,4 @@ for i in range (x):
     elif word == "leave":
         countCurrent-=amount 
 
-print(skipGroup)
-
-
-    
-         
+print(skipGroup)         
