@@ -85,7 +85,7 @@ A compilation of OpenKattis solved problems in Python 3 :snake:.
 | [Tarifa](https://open.kattis.com/problems/tarifa) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/tarifa.py) | 1.3 |
 | [Take Two Stones](https://open.kattis.com/problems/twostones) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/twostones.py) | 1.3 |
 | [The Last Problem](https://open.kattis.com/problems/thelastproblem) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/thelastproblem.py) | 1.7 |
-| [Tower Construction](https://open.kattis.com/problems/tornbygge) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/tower.py) | 1.7 |
+| [Tower Construction](https://open.kattis.com/problems/tornbygge) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/tornbygge.py) | 1.7 |
 | [Tri](https://open.kattis.com/problems/tri) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/tri.py) | 1.6 |
 | [Trik](https://open.kattis.com/problems/trik) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/trik.py) | 1.4 |
 | [Zamka](https://open.kattis.com/problems/zamka) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/zamka.py) | 1.4 |
