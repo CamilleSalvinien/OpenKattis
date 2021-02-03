@@ -5,14 +5,17 @@ A compilation of OpenKattis solved problems in Python 3 :snake:.
 | Problem Name | Solution | Difficulty |
 | ------------- |--------------- |------------- |
 | [Aaah!](https://open.kattis.com/problems/aaah) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/aaah.py) | 1.5 |
+| [ABC](https://open.kattis.com/problems/abc) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/abc.py) | 1.7 |
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/alphabetspam.py) | 1.4 |
 | [A Real Challenge](https://open.kattis.com/problems/areal) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/areal.py) | 1.5 |
 | [Astrological Sign](https://open.kattis.com/problems/astrologicalsign) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/astrologicalsign.py) | 1.6 |
 | [Autori](https://open.kattis.com/problems/autori) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/autori.py) | 1.3 |
+| [Avion](https://open.kattis.com/problems/avion) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/avion.py) | 1.4 |
 | [Baby Bites](https://open.kattis.com/problems/babybites) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/babybites.py) | 1.7 |
 | [Batter Up](https://open.kattis.com/problems/batterup) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/batterup.py) | 1.3 |
 | [Bela](https://open.kattis.com/problems/bela) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/bela.py) | 1.2 |
 | [Bijele](https://open.kattis.com/problems/bijele) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/bijele.py) | 1.4 |
+| [Breaking Branches](https://open.kattis.com/problems/breakingbranches) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/breakingbranches.py) | 1.6 |
 | [Buka](https://open.kattis.com/problems/buka) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/buka.py) | 1.7 |
 | [Bus](https://open.kattis.com/problems/bus) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/bus.py) | 1.5 |
 | [Cetvrta](https://open.kattis.com/problems/cetvrta) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/cetvrta.py) | 1.4 |
@@ -25,6 +28,7 @@ A compilation of OpenKattis solved problems in Python 3 :snake:.
 | [Egypt](https://open.kattis.com/problems/egypt) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/egypt.py) | 1.8 |
 | [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/electricaloutlets.py) | 1.3 |
 | [Faktor](https://open.kattis.com/problems/faktor) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/faktor.py) | 1.3 |
+| [Falling Apart](https://open.kattis.com/problems/fallingapart) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/fallingapart.py) | 1.6 |
 | [Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/fiftyshades.py) | 1.5 |
 | [Filip](https://open.kattis.com/problems/filip) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/filip.py) | 1.3 |
 | [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/fizzbuzz.py) | 1.3 |
@@ -43,12 +47,15 @@ A compilation of OpenKattis solved problems in Python 3 :snake:.
 | [Janitor Troubles](https://open.kattis.com/problems/janitortroubles) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/janitortroubles.py) | 1.4 |
 | [Job Expenses](https://open.kattis.com/problems/jobexpenses) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/jobexpenses.py) | 1.4 |
 | [Judging Moose](https://open.kattis.com/problems/judgingmoose) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/judgingmoose.py) | 1.4 |
+| [Kemija](https://open.kattis.com/problems/kemija08) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/kemija.py) | 1.5 |
 | [Kornislav](https://open.kattis.com/problems/kornislav) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/kornislav.py) | 1.4 |
 | [Ladder](https://open.kattis.com/problems/ladder) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/ladder.py) | 1.4 |
 | [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/lastfactorialdigit.py) |1.3|
 | [Left Beehind](https://open.kattis.com/problems/leftbeehind) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/leftbeehind.py) | 1.6 |
 | [License to Launch](https://open.kattis.com/problems/licensetolaunch) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/licensetolaunch.py) | 1.4 |
+| [Line Them Up](https://open.kattis.com/problems/lineup) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/lineup.py) | 1.6 |
 | [Missing Numbers](https://open.kattis.com/problems/missingnumbers) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/missingnumbers.py) | 1.6 |
+| [Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/mixedfractions.py) | 1.5 |
 | [Mjehuric](https://open.kattis.com/problems/mjehuric) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/mjehuric.py) | 1.5 |
 | [Modulo](https://open.kattis.com/problems/modulo) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/modulo.py) | 1.4 |
 | [Moscow Dream](https://open.kattis.com/problems/moscowdream) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/moscowdream.py) | 1.9 |
@@ -56,6 +63,7 @@ A compilation of OpenKattis solved problems in Python 3 :snake:.
 | [No Duplicates](https://open.kattis.com/problems/nodup) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/nodup.py) | 1.4 |
 | [Number Fun](https://open.kattis.com/problems/numberfun) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/numberfun.py) | 1.4 |
 | [Oddities](https://open.kattis.com/problems/oddities) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/oddities.py) | 1.4 |
+| [Odd Man Out](https://open.kattis.com/problems/oddmanout) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/oddmanout.py) | 1.5 |
 | [One Chicken Per Person!](https://open.kattis.com/problems/onechicken) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/onechicken.py) | 1.7 |
 | [Ostgoska](https://open.kattis.com/problems/ostgotska) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/ostgotska.py) | 1.7 |
 | [Parking](https://open.kattis.com/problems/parking2) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/parking2.py) | 1.3 |
@@ -80,11 +88,13 @@ A compilation of OpenKattis solved problems in Python 3 :snake:.
 | [Sibice](https://open.kattis.com/problems/sibice) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/sibice.py) | 1.4 |
 | [Simon Says](https://open.kattis.com/problems/simonsays) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/simonsays.py) | 1.4 |
 | [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/simpleaddition.py) | 2.1 |
+| [Skocimis](https://open.kattis.com/problems/skocimis | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/skocimis.py) | 1.5 |
 | [Soda Slurper](https://open.kattis.com/problems/sodaslurper) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/sodaslurper.py) | 1.5 |
 | [Solving for Carrots](https://open.kattis.com/problems/carrots) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/carrots.py) | 1.4 |
 | [Some Sum](https://open.kattis.com/problems/somesum) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/somesum.py) | 1.7 |
 | [Soylent](https://open.kattis.com/problems/soylent) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/soylent.py) | 1.6 |
 | [Spavanac](https://open.kattis.com/problems/spavanac) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/spavanac.py) | 1.4 |
+| [Speed Limit](https://open.kattis.com/problems/speedlimit) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/speedlimit.py) | 1.5 |
 | [Stacking Cups](https://open.kattis.com/problems/cups) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/cups.py) | 1.5 |
 | [Sum Kind of Problems](https://open.kattis.com/problems/sumkindofproblem) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/sumkindofproblems.py) | 1.5 |
 | [Tarifa](https://open.kattis.com/problems/tarifa) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/tarifa.py) | 1.3 |
