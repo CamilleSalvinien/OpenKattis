@@ -88,7 +88,7 @@ A compilation of OpenKattis solved problems in Python 3 :snake:.
 | [Sibice](https://open.kattis.com/problems/sibice) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/sibice.py) | 1.4 |
 | [Simon Says](https://open.kattis.com/problems/simonsays) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/simonsays.py) | 1.4 |
 | [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/simpleaddition.py) | 2.1 |
-| [Skocimis](https://open.kattis.com/problems/skocimis | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/skocimis.py) | 1.5 |
+| [Skocimis](https://open.kattis.com/problems/skocimis) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/skocimis.py) | 1.5 |
 | [Soda Slurper](https://open.kattis.com/problems/sodaslurper) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/sodaslurper.py) | 1.5 |
 | [Solving for Carrots](https://open.kattis.com/problems/carrots) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/carrots.py) | 1.4 |
 | [Some Sum](https://open.kattis.com/problems/somesum) | [Python 3](https://github.com/CamilleSalvinien/OpenKattis/blob/main/somesum.py) | 1.7 |
