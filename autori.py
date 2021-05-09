@@ -1,9 +1,14 @@
-x = input()
+# Take the name as input 
+name = input()
 
-list = []
+# Create a list to track the uppercase letters
+upperCaseOnly = []
 
-for letter in x:
+# For each letter in the name
+for letter in name:
+    # If they are uppercase add it to the upperCaseOnly list
     if (letter.isupper()) == True:
-        list.append(letter)
+        upperCaseOnly.append(letter)
 
-print("".join(list))
+# Print out the uppercase letters
+print("".join(upperCaseOnly))
