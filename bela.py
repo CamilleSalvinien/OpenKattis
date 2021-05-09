@@ -1,13 +1,17 @@
-n, b = input().split()
-n = int(n)
+# Take the input of the number of hands and the value of suits
+numberOfHands, valueSuit = input().split()
+numberOfHands = int(numberOfHands)
 count = 0
 
-for i in range (4*n):
-    c = input()
-    lastChar = c[-1]
-    firstChar = c[0]
+# Loop trhough 4 times as much as number of hands
+for i in range (4*numberOfHands):
+    card = input()
+    # Split the card as the value and the suit
+    lastChar = card[-1]
+    firstChar = card[0]
     
-    if lastChar == b:
+    # Adding to the counter is the card is dominant
+    if lastChar == valueSuit:
         if firstChar == 'A':
             count+=11
         elif firstChar == 'K':
@@ -20,9 +24,8 @@ for i in range (4*n):
             count+=10
         elif firstChar == '9':
             count+=14
-        else:
-            pass
-    if lastChar != b:
+    # Adding to the counter is the card is not dominant
+    if lastChar != valueSuit:
         if firstChar == 'A':
             count+=11
         elif firstChar == 'K':
@@ -33,7 +36,6 @@ for i in range (4*n):
             count+=2
         elif firstChar == 'T':
             count+=10
-        else:
-            pass
 
-print(count)     
+# Print out the total value of the cards
+print(count)
