@@ -1,4 +1,8 @@
+# Import the math library
 import math
 
-n = int(input())
-print("{:6f}".format(math.sqrt(n)*4))
+# Take the area of the pasture as input
+areaPasture = int(input())
+
+# Take the square root of the area of the pasture and multiply it by 4
+print("{:6f}".format(math.sqrt(areaPasture)*4))
