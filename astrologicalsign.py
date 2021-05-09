@@ -1,10 +1,8 @@
-n = int(input())
-
-for i in range (n):
+# Compare the day and month of the input,
+# to the chart from the problem and print out the astrological sign
+for i in range (int(input())):
     number, month = input().split()
-    number = int(number)
-    month = str(month)
-
+    number = int(number);  month = str(month)
     if month == "Mar":
         if number >=21:
             print("Aries")
@@ -75,6 +73,4 @@ for i in range (n):
         if number >=20:
             print("Pisces")
         else:
-            print("Aquarius")           
-    else:
-        pass
+            print("Aquarius") 
